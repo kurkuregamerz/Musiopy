@@ -11,8 +11,8 @@ Musio is a Music App
 To use this app download your songs and their banner.
 Create a Folder named "Musics" There put your song and its banner in a folder named after the song and then open Musics-list.js add a variable to the array(const Musics_list) with your songs file , banner file location and add  song_name and artist_name.
 
-```javascript-
-(song_name__artist_name= {
+```javascript
+(song_name__artist_name = {
     song_image_url:
       "Musics/Song_folder/song_banner_file",
     song_audio_url:
